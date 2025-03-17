@@ -8,9 +8,16 @@ import { cn } from "@/lib/utils"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "My Website",
-  description: "A simple website with 4 pages",
-    generator: 'v0.dev'
+  title: "Rat & Duck",
+  description: "A celebration of love between an American/Polish stylist and a Moroccan wannabe-musician",
+  icons: {
+    icon: [
+      {
+        url: "/favicon.svg",
+        href: "/favicon.svg",
+      },
+    ],
+  },
 }
 
 export default function RootLayout({
