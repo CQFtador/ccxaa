@@ -39,8 +39,7 @@ export default function ForYou() {
 
           <p className="text-lg leading-relaxed">
             Family and relationships were always two separate worlds in my mind. Your words made me realize how wrong my view was.
-            Now it is clear and I truly believe it: you are family, as much as my relatives are.
-          </p>
+            Now it is clear and I truly believe it: you are family.
           <div className="pt-6">
             <p className="text-lg font-medium text-primary">With all my heart, I love you</p>
             <p className="text-lg">Amine</p>
